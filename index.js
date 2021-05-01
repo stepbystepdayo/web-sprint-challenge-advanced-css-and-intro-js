@@ -308,7 +308,7 @@ For example lotsOfArt(artists); will return ["Amedeo Modigliani", "Rene Magritte
 
 function lotsOfArt(array){
   //we should loop 
-  //sfter loop, we should make If statment 
+  //after loop, we should make If statment 
   //check array[i].paintings > 100 
   //make new array coolArtist =[] 
   //inside coolArtist, coolArtist.push(array[i].name);
@@ -348,9 +348,8 @@ The function should console.log 50 chunks of HTML code that match the structure 
 ‼️ You do **NOT** need to get these to display on your page, but you can copy and paste the result into your HTML file if you'd like to see what that would look like. */
 
 function getHTML(data){
-
-    console.log(document.querySelector(".artist"))
-
+    
+    
   }
 
 

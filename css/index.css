@@ -172,7 +172,6 @@ button:hover{
 
     /* Artists Section Styles */
     .artists-container{
-        display:flex;
         flex-direction:column;
         margin-bottom:15%;
         
@@ -184,7 +183,7 @@ button:hover{
     }
     .artist img{
         width:55%;
-        height:20vh;
+        height:30vh;
 
     }
     .artist a{
